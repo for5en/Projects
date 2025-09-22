@@ -1,0 +1,2 @@
+# Drone simulator
+This project was created to test an idea for drone technology that involves intercommunicating drones in a chain and controlling their distances and angles. It was intended to demonstrate how such drones would be arranged, and it was also designed for the purpose of teaching SFML. Nothing special, input how many drones you want and see how they behave.

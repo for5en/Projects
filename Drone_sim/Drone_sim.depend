@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756308650 source:x:\warsztat\projekt\drone_sim\main.cpp
+	<bits/stdc++.h>
+	<SFML/Graphics.hpp>
+
